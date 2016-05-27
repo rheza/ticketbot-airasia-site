@@ -5762,11 +5762,11 @@ body {
     width: 0;
     height: 0;
 
-    border-bottom: 500px solid white; }
+     }
   .ss-bg img {
     position: absolute;
     left: 50%;
-    top: 40px;
+    top: 30px;
     transform: translateX(-50%); }
 
 .ss {
