@@ -5766,7 +5766,7 @@ body {
   .ss-bg img {
     position: absolute;
     left: 50%;
-    top: 10px;
+    top: 40px;
     transform: translateX(-50%); }
 
 .ss {
